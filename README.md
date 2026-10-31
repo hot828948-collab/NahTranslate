@@ -51,8 +51,8 @@
 
 ## 👥 Đội ngũ phát triển
 
-* **Developer:** Tinn[cite: 7]
-* **Tester:** Dang Huy[cite: 7]
+* **Developer:** Tinn
+* **Tester:** Dang Huy
 
 ---
 
