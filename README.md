@@ -11,6 +11,8 @@
 
 [Tính năng](#-tính-năng-nổi-bật) • [Cơ chế cập nhật](#-cơ-chế-kiểm-tra-cập-nhật-ota) • [Nhóm phát triển](#-đội-ngũ-phát-triển)
 
+<img width="200" height="200" alt="1792897529569_1660190258815017049_1660190258815017049_c3f6b6392eb5e06f094672c802e31bd2" src="https://github.com/user-attachments/assets/0d77042a-1080-4e48-8f91-debce6d2b555" />
+
 </div>
 
 ---
