@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.0.1-beta",
-  "apkUrl": "",
-  "releaseNotes": "Phiên bản đầu tiên của Nah.translate."
+  "versionCode": 2,
+  "versionName": "0.0.2-beta",
+  "apkUrl": "https://github.com/hot828948-collab/NahTranslate/releases/download/v0.0.2/app-release.apk",
+  "releaseNotes": "Thêm 200 cụm từ để fix lỗi dịch cụm từ sai"
 }
