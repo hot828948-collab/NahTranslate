@@ -28,7 +28,7 @@
 * 🚀 **Dịch thuật ngoại tuyến (Offline Translation):** Tích hợp Google ML Kit giúp xử lý văn bản nhanh chóng mà không phụ thuộc hoàn toàn vào kết nối mạng.
 * 📚 **Sổ tay & Ngữ pháp thông minh:** Hỗ trợ lưu trữ ghi chú cá nhân, tổng hợp hệ thống **12 thì cơ bản trong tiếng Anh** và **50 động từ bất quy tắc** phục vụ ôn tập hiệu quả.
 * 🔄 **Cơ chế OTA Updates tự động:** Tự động kết nối với GitHub Releases để kiểm tra phiên bản mới, hiển thị bảng **What's new** trực quan và hỗ trợ tải file `.apk` trực tiếp trong ứng dụng.
-* 🎵 **Tiện ích tích hợp đa dạng:** Quản lý dung lượng bộ nhớ thông minh (`AppStorageInfoCard`), trình phát nhạc mini tích hợp (`MusicPlayerCard`) và phím tắt truy cập thư mục dữ liệu hệ thống.
+* 🎵 **Tiện ích tích hợp đa dạng:** Quản lý dung lượng bộ nhớ thông minh (`AppStorageInfoCard`),nhạc verity in GD .
 
 ---
 
